@@ -1,0 +1,8 @@
+An error occurred:
+Traceback (most recent call last):
+  File "D:\iPhone_Plug\异常捕获.py", line 11, in main
+    faulty_function()
+  File "D:\iPhone_Plug\异常捕获.py", line 5, in faulty_function
+    return 10 / 0  # 这行代码会引发 ZeroDivisionError 异常
+ZeroDivisionError: division by zero
+
