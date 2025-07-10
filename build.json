@@ -1,0 +1,42 @@
+[
+    {
+        "modelType": "classification",
+        "modelPath": "",
+        "configPath": "",
+        "imageWidth": 1024,
+        "imageHeight": 1024,
+        "gpuIndex": 0,
+        "threadNum": 2,
+        "待定": ""
+    },
+    {
+        "modelType": "detection",
+        "modelPath": "",
+        "configPath": "",
+        "imageWidth": 1024,
+        "imageHeight": 1024,
+        "gpuIndex": 1,
+        "threadNum": 1,
+        "待定": ""
+    },
+    {
+        "modelType": "segmentation",
+        "modelPath": "",
+        "configPath": "",
+        "imageWidth": 1024,
+        "imageHeight": 1024,
+        "gpuIndex": 1,
+        "threadNum": 2,
+        "待定": ""
+    },
+    {
+        "modelType": "instancesegmentation",
+        "modelPath": "",
+        "configPath": "",
+        "imageWidth": 1024,
+        "imageHeight": 1024,
+        "gpuIndex": 1,
+        "threadNum": 2,
+        "待定": ""
+    }
+]
